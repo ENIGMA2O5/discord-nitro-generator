@@ -19,3 +19,5 @@ type/copy' py -3 -m pip install numpy' into terminal
 run main.py
 
 # im not responsible for how you use this application it's for educational purposes only!
+
+go to releses for pre compiled one
