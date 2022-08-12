@@ -8,12 +8,12 @@ you will need https://www.python.org/
 
 git clone https://github.com/ENIGMA2O5/discord-nitro-generator
 
-type/copy 'py -3 -m pip install -r  discord_webhook' into terminal 
+type/copy 'py -3 -m pip installdiscord_webhook' into terminal 
 
-type/copy' py -3 -m pip install -r requests 'into terminal 
+type/copy' py -3 -m pip install requests 'into terminal 
 
-type/copy'py -3 -m pip install -r colored 'into terminal 
+type/copy'py -3 -m pip install colored 'into terminal 
 
-type/copy' py -3 -m pip install -r numpy' into terminal 
+type/copy' py -3 -m pip install numpy' into terminal 
 
 run main.py
