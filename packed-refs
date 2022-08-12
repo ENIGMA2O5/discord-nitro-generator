@@ -1,5 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-79a2c73ca8830d8be1d39b1bf1aba7e6a48b643c refs/remotes/origin/Proxy-Development-Version
-63d7070234bb2af94ba3caa1db615b1ad83b548e refs/remotes/origin/main
-00641e7572d04446f661df1d9abe615888a202df refs/tags/1.0
-6b4a238ede3d9ffcea6ec9c79ab43e55ef81bcb4 refs/tags/1.2
