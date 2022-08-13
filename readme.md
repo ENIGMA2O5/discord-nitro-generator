@@ -4,7 +4,7 @@
 
 download the rar and extract it form releases
 
-type/copy 'py -3 -m pip installdiscord_webhook' into terminal
+type/copy 'py -3 -m pip install discord_webhook' into terminal
 
 type/copy' py -3 -m pip install requests 'into terminal
 
